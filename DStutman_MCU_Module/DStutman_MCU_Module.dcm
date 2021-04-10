@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MS88SF2
+D MINEW module for the nRF52840, onboard trace antenna and DCDC passives
+K Minew nRF52 nRF52840 Module Bluetooth
+F https://www.minew.com/download/MS88SF2_V1.0-Datasheet.pdf
+$ENDCMP
+#
 #End Doc Library
