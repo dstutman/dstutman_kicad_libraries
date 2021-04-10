@@ -12,3 +12,4 @@ A footprint in this list is considered validated when I have successfully used i
 |-------------------------------------------------|----------|
 |DStutman_MCU_Module/MS88FS2                      |No        |
 |DStutman_MCU_Module/MS88FS2_Reversible           |No        |
+|DStutman_Transistor_FET/FDS6910                  |No        |
