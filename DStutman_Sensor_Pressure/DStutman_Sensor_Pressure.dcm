@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LPS22HB
+D MEMS pressure sensor, 260-1260 hPa, absolute digital output baromeeter
+K mems absolute baromeeter
+F www.st.com/resource/en/datasheet/lps25hb.pdf
+$ENDCMP
+#
+#End Doc Library
