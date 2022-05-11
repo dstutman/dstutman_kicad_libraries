@@ -4,7 +4,7 @@ These are my personal KiCAD libraries. Feel free to use them.
 
 If you want 3D models, you need to point the `DS3DROOT` environmental variable to the root of this repository on your local filesystem.
 
-## Footprint Validation Status
+## Footprint Validation Status (Very Stale)
 
 A footprint in this list is considered validated when I have successfully used it to produce a board.
 
